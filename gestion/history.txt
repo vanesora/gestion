@@ -1,0 +1,112 @@
+virtualenv -p python3 Gestion
+  890  ls
+  891  rm -r Gestion/
+  892  ls
+  893  mkdir env
+  894  cd env/
+  895  virtualenv -p python3 gestion
+  896  source gestion/bin/active
+  897  gestion
+  898  source gestion/bin/activate
+  899  which pip3
+  900  which python3
+  901  which python
+  902  which cp
+  903  ls
+  904  cd ..
+  905  ls
+  906  cd gestion/
+  907  source ../env/gestion/bin/activate
+  908  cd ..
+  909  cd env/
+  910  cd gestion/
+  911  cd bin/
+  912  source activate
+  913  source ../env/gestion/bin/activate
+  914  which phyton3
+  915  which python3
+  916  pip3 install -r pip-requirements.txt
+  917  pip3 install django
+  918  pip3 uninstall django
+  919  pip3 install django
+  920  sudo apt-get install libmysqlclient-dev
+  921  pip3 install mysql-python
+  922  which easy_install
+  923  easy_install mysql-python
+  924  pip3 install configParser
+  925  easy_install mysql-python
+  926  pip3 install ConfigParser
+  927  pip3 install mysqlclient
+  928  sudo apt-get install python3-dev libmysqlclient-dev
+  929  easy_install mysql-python
+  930  pip3 install mysql-connector
+  931  pip install mysqlclient
+  932  pip3 install mysqlclient
+  933  django-admin.py startproject my_django15_project
+  934  django-admin.py startproject gestion
+  935  cd gestion/
+  936  python3 manage.py runserver 0:8000
+  937  pip3 install mysqlclient
+  938  pip install MySQL-python
+  939  pip install pystan
+  940  pip configparser
+  941  pip3 install configparser
+  942  pip install configparser
+  943  pip install MySQL-python
+  944  python3 manage.py runserver 0:8000
+  945  python3 manage.py migrate
+  946  python3 manage.py runserver 0:8000
+  947  python3 manage.py createuser
+  948  python3 manage.py createsuperuser
+  949  python3 manage.py runserver 0:8000
+  950  python3 manage.py startapp mensajeria
+  951  python3 manage.py runserver 0:8000
+  952  python3 manage.py makemigration
+  953  python3 manage.py makemigrations
+  954  python3 manage.py makemigrations mensajeria
+  955  python3 manage.py runserver 0:8000
+  956* python3 manage.py
+  957  migrate
+  958  python3 manage.py makemigrations mensajeria
+  959  python3 manage.py makemigrations migrate
+  960  python3 manage.py migrate
+  961  python3 manage.py runserver 0:8000
+  962  python3 manage.py shell
+  963  python3 manage.py runserver 0:8000
+  964  cd ..
+  965  history
+
+
+
+
+  TERMINAL 2
+
+  virtualenv -p python3 Gestion
+  890  ls
+  891  rm -r Gestion/
+  892  ls
+  893  mkdir env
+  894  cd env/
+  895  virtualenv -p python3 gestion
+  896  source gestion/bin/active
+  897  gestion
+  898  source gestion/bin/activate
+  899  which pip3
+  900  which python3
+  901  which python
+  902  which cp
+  903  ls
+  904  cd ..
+  905  ls
+  906  cd gestion/
+  907  source ../env/gestion/bin/activate
+  908  cd ..
+  909  cd env/
+  910  cd gestion/
+  911  cd bin/
+  912  source activate
+  913  mysql -u root
+  914  mysql -u root -p
+  915  sudo dpkg -i mysql-apt-config_0.5.3-1_all.deb
+  916  mysql -u root -p
+  917  history
