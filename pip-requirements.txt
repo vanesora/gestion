@@ -21,7 +21,7 @@ elasticsearch==1.9.0
 elasticutils==0.10.3
 geopy==1.11.0
 googlemaps==2.4.2
-httplib2==0.9.2
+httplib2==0.19.0
 Markdown==2.6.5
 oauthlib==1.0.3
 psycopg2
