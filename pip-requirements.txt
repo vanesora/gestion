@@ -36,7 +36,7 @@ requests-oauthlib==0.6.0
 simplejson==3.8.1
 six==1.10.0
 tablib==0.11.1
-urllib3==1.14
+urllib3==1.26.5
 django-auth-ldap==1.2.7
 icalendar==3.9.2
 python-dateutil==2.5.0
